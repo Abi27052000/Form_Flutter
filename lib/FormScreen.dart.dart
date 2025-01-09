@@ -120,7 +120,7 @@ class _FormScreenState extends State<FormScreen> {
                   ),
                   child: const Text(
                     'Next',
-                    style: TextStyle(fontSize: 16),
+                    style: TextStyle(fontSize: 16, color: Colors.black),
                   ),
                 ),
               ],
